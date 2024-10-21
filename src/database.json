@@ -1,0 +1,67 @@
+
+[
+	{
+	  "id": 1,
+	  "name": "Cristiano Ronaldo",
+	  "club": "Al Nassr",
+	  "nationality": "Portugal",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 87,
+		"Shooting": 93,
+		"Passing": 82,
+		"Dribbling": 88,
+		"Defending": 35,
+		"Physical": 77
+	  }
+	},
+	{
+	  "id": 2,
+	  "name": "Lionel Messi",
+	  "club": "Inter Miami",
+	  "nationality": "Argentina",
+	  "position": "RW",
+	  "statistics": {
+		"Overall": 94,
+		"Pace": 85,
+		"Shooting": 92,
+		"Passing": 91,
+		"Dribbling": 95,
+		"Defending": 38,
+		"Physical": 65
+	  }
+	},
+	{
+	  "id": 3,
+	  "name": "Neymar Jr",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "Brazil",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 91,
+		"Shooting": 85,
+		"Passing": 86,
+		"Dribbling": 94,
+		"Defending": 32,
+		"Physical": 59
+	  }
+	},
+	{
+	  "id": 4,
+	  "name": "Kevin De Bruyne",
+	  "club": "Manchester City",
+	  "nationality": "Belgium",
+	  "position": "CAM",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 76,
+		"Shooting": 86,
+		"Passing": 92,
+		"Dribbling": 87,
+		"Defending": 61,
+		"Physical": 78
+	  }
+	}
+  ]
