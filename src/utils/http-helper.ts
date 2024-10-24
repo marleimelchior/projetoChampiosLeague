@@ -14,5 +14,13 @@ export const noContent = async (): Promise<HttpResponse> => {
   }
 }
 
+//criar mensagem do 404
+export const notFound = async (): Promise<HttpResponse> => {
+  return {
+    statusCode: 404,
+    body: { message: "Usuário não encontrado"}
+  }
+}
+
 
 

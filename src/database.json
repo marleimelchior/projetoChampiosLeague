@@ -1,4 +1,3 @@
-
 [
 	{
 	  "id": 1,
@@ -63,5 +62,853 @@
 		"Defending": 61,
 		"Physical": 78
 	  }
+	},
+	{
+	  "id": 5,
+	  "name": "Kylian Mbappé",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "France",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 92,
+		"Pace": 98,
+		"Shooting": 89,
+		"Passing": 80,
+		"Dribbling": 92,
+		"Defending": 39,
+		"Physical": 78
+	  }
+	},
+	{
+	  "id": 6,
+	  "name": "Robert Lewandowski",
+	  "club": "Barcelona",
+	  "nationality": "Poland",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 78,
+		"Shooting": 93,
+		"Passing": 79,
+		"Dribbling": 85,
+		"Defending": 43,
+		"Physical": 82
+	  }
+	},
+	{
+	  "id": 7,
+	  "name": "Virgil van Dijk",
+	  "club": "Liverpool",
+	  "nationality": "Netherlands",
+	  "position": "CB",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 76,
+		"Shooting": 60,
+		"Passing": 71,
+		"Dribbling": 72,
+		"Defending": 91,
+		"Physical": 86
+	  }
+	},
+	{
+	  "id": 8,
+	  "name": "Mohamed Salah",
+	  "club": "Liverpool",
+	  "nationality": "Egypt",
+	  "position": "RW",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 93,
+		"Shooting": 88,
+		"Passing": 81,
+		"Dribbling": 90,
+		"Defending": 45,
+		"Physical": 75
+	  }
+	},
+	{
+	  "id": 9,
+	  "name": "Karim Benzema",
+	  "club": "Al-Ittihad",
+	  "nationality": "France",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 78,
+		"Shooting": 92,
+		"Passing": 83,
+		"Dribbling": 87,
+		"Defending": 39,
+		"Physical": 78
+	  }
+	},
+	{
+	  "id": 10,
+	  "name": "Luka Modric",
+	  "club": "Real Madrid",
+	  "nationality": "Croatia",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 88,
+		"Pace": 74,
+		"Shooting": 76,
+		"Passing": 89,
+		"Dribbling": 90,
+		"Defending": 72,
+		"Physical": 64
+	  }
+	},
+	{
+	  "id": 11,
+	  "name": "Sadio Mané",
+	  "club": "Al Nassr",
+	  "nationality": "Senegal",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 91,
+		"Shooting": 85,
+		"Passing": 77,
+		"Dribbling": 89,
+		"Defending": 50,
+		"Physical": 80
+	  }
+	},
+	{
+	  "id": 12,
+	  "name": "Son Heung-min",
+	  "club": "Tottenham Hotspur",
+	  "nationality": "South Korea",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 90,
+		"Shooting": 87,
+		"Passing": 81,
+		"Dribbling": 88,
+		"Defending": 45,
+		"Physical": 74
+	  }
+	},
+	{
+	  "id": 13,
+	  "name": "Gareth Bale",
+	  "club": "Retired",
+	  "nationality": "Wales",
+	  "position": "RW",
+	  "statistics": {
+		"Overall": 88,
+		"Pace": 92,
+		"Shooting": 90,
+		"Passing": 83,
+		"Dribbling": 88,
+		"Defending": 35,
+		"Physical": 74
+	  }
+	},
+	{
+	  "id": 14,
+	  "name": "Eden Hazard",
+	  "club": "Retired",
+	  "nationality": "Belgium",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 86,
+		"Shooting": 87,
+		"Passing": 90,
+		"Dribbling": 92,
+		"Defending": 45,
+		"Physical": 70
+	  }
+	},
+	{
+	  "id": 15,
+	  "name": "Alisson Becker",
+	  "club": "Liverpool",
+	  "nationality": "Brazil",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 60,
+		"Shooting": 30,
+		"Passing": 75,
+		"Dribbling": 60,
+		"Defending": 90,
+		"Physical": 85
+	  }
+	},
+	{
+	  "id": 16,
+	  "name": "Jan Oblak",
+	  "club": "Atletico Madrid",
+	  "nationality": "Slovenia",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 55,
+		"Shooting": 25,
+		"Passing": 70,
+		"Dribbling": 50,
+		"Defending": 92,
+		"Physical": 88
+	  }
+	},
+	{
+	  "id": 17,
+	  "name": "Manuel Neuer",
+	  "club": "Bayern Munich",
+	  "nationality": "Germany",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 55,
+		"Shooting": 30,
+		"Passing": 72,
+		"Dribbling": 55,
+		"Defending": 90,
+		"Physical": 90
+	  }
+	},
+	{
+	  "id": 18,
+	  "name": "Gianluigi Donnarumma",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "Italy",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 60,
+		"Shooting": 25,
+		"Passing": 70,
+		"Dribbling": 55,
+		"Defending": 90,
+		"Physical": 85
+	  }
+	},
+	{
+	  "id": 19,
+	  "name": "Marc-André ter Stegen",
+	  "club": "Barcelona",
+	  "nationality": "Germany",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 88,
+		"Pace": 60,
+		"Shooting": 30,
+		"Passing": 75,
+		"Dribbling": 60,
+		"Defending": 90,
+		"Physical": 84
+	  }
+	},
+	{
+	  "id": 20,
+	  "name": "Phil Foden",
+	  "club": "Manchester City",
+	  "nationality": "England",
+	  "position": "CAM",
+	  "statistics": {
+		"Overall": 87,
+		"Pace": 84,
+		"Shooting": 79,
+		"Passing": 83,
+		"Dribbling": 90,
+		"Defending": 48,
+		"Physical": 67
+	  }
+	},
+	{
+	  "id": 21,
+	  "name": "Jude Bellingham",
+	  "club": "Real Madrid",
+	  "nationality": "England",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 88,
+		"Pace": 83,
+		"Shooting": 80,
+		"Passing": 81,
+		"Dribbling": 88,
+		"Defending": 70,
+		"Physical": 75
+	  }
+	},
+	{
+	  "id": 22,
+	  "name": "Reece James",
+	  "club": "Chelsea",
+	  "nationality": "England",
+	  "position": "RB",
+	  "statistics": {
+		"Overall": 85,
+		"Pace": 87,
+		"Shooting": 67,
+		"Passing": 76,
+		"Dribbling": 78,
+		"Defending": 83,
+		"Physical": 81
+	  }
+	},
+	{
+	  "id": 23,
+	  "name": "Ruben Dias",
+	  "club": "Manchester City",
+	  "nationality": "Portugal",
+	  "position": "CB",
+	  "statistics": {
+		"Overall": 87,
+		"Pace": 67,
+		"Shooting": 50,
+		"Passing": 73,
+		"Dribbling": 75,
+		"Defending": 87,
+		"Physical": 82
+	  }
+	},
+	{
+	  "id": 24,
+	  "name": "Kalidou Koulibaly",
+	  "club": "Al Nassr",
+	  "nationality": "Senegal",
+	  "position": "CB",
+	  "statistics": {
+		"Overall": 86,
+		"Pace": 73,
+		"Shooting": 50,
+		"Passing": 70,
+		"Dribbling": 67,
+		"Defending": 90,
+		"Physical": 88
+	  }
+	},
+	{
+	  "id": 25,
+	  "name": "Harry Kane",
+	  "club": "Bayern Munich",
+	  "nationality": "England",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 76,
+		"Shooting": 92,
+		"Passing": 79,
+		"Dribbling": 83,
+		"Defending": 48,
+		"Physical": 88
+	  }
+	},
+	{
+	  "id": 26,
+	  "name": "Bruno Fernandes",
+	  "club": "Manchester United",
+	  "nationality": "Portugal",
+	  "position": "CAM",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 78,
+		"Shooting": 81,
+		"Passing": 88,
+		"Dribbling": 83,
+		"Defending": 52,
+		"Physical": 69
+	  }
+	},
+	{
+	  "id": 27,
+	  "name": "Pedri",
+	  "club": "Barcelona",
+	  "nationality": "Spain",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 86,
+		"Pace": 82,
+		"Shooting": 74,
+		"Passing": 87,
+		"Dribbling": 89,
+		"Defending": 61,
+		"Physical": 64
+	  }
+	},
+	{
+	  "id": 28,
+	  "name": "Gavi",
+	  "club": "Barcelona",
+	  "nationality": "Spain",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 79,
+		"Shooting": 70,
+		"Passing": 84,
+		"Dribbling": 87,
+		"Defending": 62,
+		"Physical": 64
+	  }
+	},
+	{
+	  "id": 29,
+	  "name": "Philippe Coutinho",
+	  "club": "Aston Villa",
+	  "nationality": "Brazil",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 77,
+		"Shooting": 76,
+		"Passing": 82,
+		"Dribbling": 85,
+		"Defending": 35,
+		"Physical": 65
+	  }
+	},
+	{
+	  "id": 30,
+	  "name": "Ousmane Dembélé",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "France",
+	  "position": "RW",
+	  "statistics": {
+		"Overall": 85,
+		"Pace": 91,
+		"Shooting": 79,
+		"Passing": 80,
+		"Dribbling": 90,
+		"Defending": 39,
+		"Physical": 72
+	  }
+	},
+	{
+	  "id": 31,
+	  "name": "Antoine Griezmann",
+	  "club": "Atlético de Madrid",
+	  "nationality": "France",
+	  "position": "CF",
+	  "statistics": {
+		"Overall": 86,
+		"Pace": 82,
+		"Shooting": 81,
+		"Passing": 83,
+		"Dribbling": 86,
+		"Defending": 48,
+		"Physical": 75
+	  }
+	},
+	{
+	  "id": 32,
+	  "name": "Gerard Moreno",
+	  "club": "Villarreal",
+	  "nationality": "Spain",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 83,
+		"Pace": 83,
+		"Shooting": 80,
+		"Passing": 75,
+		"Dribbling": 85,
+		"Defending": 36,
+		"Physical": 80
+	  }
+	},
+	{
+	  "id": 33,
+	  "name": "Saúl Ñíguez",
+	  "club": "Atlético de Madrid",
+	  "nationality": "Spain",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 74,
+		"Shooting": 73,
+		"Passing": 80,
+		"Dribbling": 81,
+		"Defending": 82,
+		"Physical": 79
+	  }
+	},
+	{
+	  "id": 34,
+	  "name": "César Azpilicueta",
+	  "club": "Aston Villa",
+	  "nationality": "Spain",
+	  "position": "RB",
+	  "statistics": {
+		"Overall": 83,
+		"Pace": 73,
+		"Shooting": 61,
+		"Passing": 75,
+		"Dribbling": 70,
+		"Defending": 85,
+		"Physical": 78
+	  }
+	},
+	{
+	  "id": 35,
+	  "name": "Marco Verratti",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "Italy",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 87,
+		"Pace": 70,
+		"Shooting": 65,
+		"Passing": 88,
+		"Dribbling": 88,
+		"Defending": 70,
+		"Physical": 68
+	  }
+	},
+	{
+	  "id": 36,
+	  "name": "Nicolo Barella",
+	  "club": "Inter Milan",
+	  "nationality": "Italy",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 80,
+		"Shooting": 75,
+		"Passing": 80,
+		"Dribbling": 84,
+		"Defending": 70,
+		"Physical": 76
+	  }
+	},
+	{
+	  "id": 37,
+	  "name": "Frenkie de Jong",
+	  "club": "Barcelona",
+	  "nationality": "Netherlands",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 87,
+		"Pace": 81,
+		"Shooting": 75,
+		"Passing": 84,
+		"Dribbling": 88,
+		"Defending": 71,
+		"Physical": 74
+	  }
+	},
+	{
+	  "id": 38,
+	  "name": "Toni Kroos",
+	  "club": "Real Madrid",
+	  "nationality": "Germany",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 88,
+		"Pace": 72,
+		"Shooting": 77,
+		"Passing": 90,
+		"Dribbling": 83,
+		"Defending": 60,
+		"Physical": 68
+	  }
+	},
+	{
+	  "id": 39,
+	  "name": "Ilkay Gündogan",
+	  "club": "Barcelona",
+	  "nationality": "Germany",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 85,
+		"Pace": 70,
+		"Shooting": 76,
+		"Passing": 84,
+		"Dribbling": 81,
+		"Defending": 67,
+		"Physical": 75
+	  }
+	},
+	{
+	  "id": 40,
+	  "name": "Joshua Kimmich",
+	  "club": "Bayern Munich",
+	  "nationality": "Germany",
+	  "position": "CDM",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 79,
+		"Shooting": 76,
+		"Passing": 88,
+		"Dribbling": 80,
+		"Defending": 85,
+		"Physical": 78
+	  }
+	},
+	{
+	  "id": 41,
+	  "name": "Manuel Neuer",
+	  "club": "Bayern Munich",
+	  "nationality": "Germany",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 58,
+		"Shooting": 14,
+		"Passing": 84,
+		"Dribbling": 35,
+		"Defending": 90,
+		"Physical": 87
+	  }
+	},
+	{
+	  "id": 42,
+	  "name": "Ederson",
+	  "club": "Manchester City",
+	  "nationality": "Brazil",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 62,
+		"Shooting": 16,
+		"Passing": 85,
+		"Dribbling": 33,
+		"Defending": 87,
+		"Physical": 80
+	  }
+	},
+	{
+	  "id": 43,
+	  "name": "Thibaut Courtois",
+	  "club": "Real Madrid",
+	  "nationality": "Belgium",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 54,
+		"Shooting": 12,
+		"Passing": 81,
+		"Dribbling": 34,
+		"Defending": 89,
+		"Physical": 90
+	  }
+	},
+	{
+	  "id": 44,
+	  "name": "Alisson Becker",
+	  "club": "Liverpool",
+	  "nationality": "Brazil",
+	  "position": "GK",
+	  "statistics": {
+		"Overall": 89,
+		"Pace": 56,
+		"Shooting": 14,
+		"Passing": 81,
+		"Dribbling": 34,
+		"Defending": 89,
+		"Physical": 90
+	  }
+	},
+	{
+	  "id": 45,
+	  "name": "Kylian Mbappé",
+	  "club": "Paris Saint-Germain",
+	  "nationality": "France",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 91,
+		"Pace": 97,
+		"Shooting": 89,
+		"Passing": 83,
+		"Dribbling": 95,
+		"Defending": 36,
+		"Physical": 78
+	  }
+	},
+	{
+	  "id": 46,
+	  "name": "Son Heung-min",
+	  "club": "Tottenham Hotspur",
+	  "nationality": "South Korea",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 90,
+		"Pace": 91,
+		"Shooting": 90,
+		"Passing": 82,
+		"Dribbling": 90,
+		"Defending": 40,
+		"Physical": 72
+	  }
+	},
+	{
+	  "id": 47,
+	  "name": "Marcus Rashford",
+	  "club": "Manchester United",
+	  "nationality": "England",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 86,
+		"Pace": 91,
+		"Shooting": 81,
+		"Passing": 76,
+		"Dribbling": 84,
+		"Defending": 30,
+		"Physical": 80
+	  }
+	},
+	{
+	  "id": 48,
+	  "name": "Ciro Immobile",
+	  "club": "Lazio",
+	  "nationality": "Italy",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 85,
+		"Pace": 75,
+		"Shooting": 86,
+		"Passing": 70,
+		"Dribbling": 79,
+		"Defending": 30,
+		"Physical": 82
+	  }
+	},
+	{
+	  "id": 49,
+	  "name": "Victor Osimhen",
+	  "club": "Napoli",
+	  "nationality": "Nigeria",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 86,
+		"Pace": 90,
+		"Shooting": 88,
+		"Passing": 73,
+		"Dribbling": 85,
+		"Defending": 30,
+		"Physical": 85
+	  }
+	},
+	{
+	  "id": 50,
+	  "name": "Gabriel Jesus",
+	  "club": "Arsenal",
+	  "nationality": "Brazil",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 84,
+		"Shooting": 80,
+		"Passing": 80,
+		"Dribbling": 87,
+		"Defending": 34,
+		"Physical": 74
+	  }
+	},
+	{
+	  "id": 51,
+	  "name": "Timo Werner",
+	  "club": "RB Leipzig",
+	  "nationality": "Germany",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 90,
+		"Shooting": 82,
+		"Passing": 75,
+		"Dribbling": 84,
+		"Defending": 30,
+		"Physical": 76
+	  }
+	},
+	{
+	  "id": 52,
+	  "name": "Lautaro Martínez",
+	  "club": "Inter Milan",
+	  "nationality": "Argentina",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 85,
+		"Pace": 85,
+		"Shooting": 83,
+		"Passing": 75,
+		"Dribbling": 87,
+		"Defending": 34,
+		"Physical": 83
+	  }
+	},
+	{
+	  "id": 53,
+	  "name": "Dusan Vlahovic",
+	  "club": "Juventus",
+	  "nationality": "Serbia",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 81,
+		"Shooting": 85,
+		"Passing": 72,
+		"Dribbling": 77,
+		"Defending": 33,
+		"Physical": 84
+	  }
+	},
+	{
+	  "id": 54,
+	  "name": "Raheem Sterling",
+	  "club": "Aston Villa",
+	  "nationality": "England",
+	  "position": "LW",
+	  "statistics": {
+		"Overall": 84,
+		"Pace": 90,
+		"Shooting": 79,
+		"Passing": 76,
+		"Dribbling": 88,
+		"Defending": 36,
+		"Physical": 73
+	  }
+	},
+	{
+	  "id": 55,
+	  "name": "Youssef En-Nesyri",
+	  "club": "Sevilla",
+	  "nationality": "Morocco",
+	  "position": "ST",
+	  "statistics": {
+		"Overall": 81,
+		"Pace": 85,
+		"Shooting": 77,
+		"Passing": 70,
+		"Dribbling": 78,
+		"Defending": 30,
+		"Physical": 82
+	  }
+	},
+	{
+	  "id": 56,
+	  "name": "Dominik Szoboszlai",
+	  "club": "Liverpool",
+	  "nationality": "Hungary",
+	  "position": "CM",
+	  "statistics": {
+		"Overall": 82,
+		"Pace": 81,
+		"Shooting": 75,
+		"Passing": 76,
+		"Dribbling": 80,
+		"Defending": 54,
+		"Physical": 76
+	  }
+	},
+	{
+	  "id": 57,
+	  "name": "Sergio Busquets",
+	  "club": "Inter Miami",
+	  "nationality": "Spain",
+	  "position": "CDM",
+	  "statistics": {
+		"Overall": 83,
+		"Pace": 56,
+		"Shooting": 67,
+		"Passing": 83,
+		"Dribbling": 74,
+		"Defending": 85,
+		"Physical": 70
+	  }
 	}
-  ]
+]

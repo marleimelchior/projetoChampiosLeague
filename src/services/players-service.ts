@@ -1,6 +1,8 @@
-import { findAllPlayers } from "../repositories/players-repository";
-import { noContent, ok } from "../utils/http-helper"
+import { findAllPlayers, findPlayerById } from "../repositories/players-repository";
+import { noContent, notFound, ok } from "../utils/http-helper"
 
+
+//função para retonar todos os jogadores
 export const getPlayerService = async() => {
   const data = await findAllPlayers();
 	let response = null;
@@ -9,5 +11,14 @@ export const getPlayerService = async() => {
 	response = data ? await ok(data) : await noContent();
 
 	return response;
+}
+
+export const getPlayerByIdService = async(id: number) => {
+  const data = await findPlayerById(id);
+  let response = null; 
+
+  response = data ? await ok(data) : await notFound();
+
+  return response;
 }
 		
