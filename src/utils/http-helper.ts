@@ -22,5 +22,17 @@ export const notFound = async (): Promise<HttpResponse> => {
   }
 }
 
+export const created = async (data:any): Promise<HttpResponse> => {
+  return {
+    statusCode: 201,
+    body: data
+  }
+}
+
+export const badRequest = (message: string) => ({
+  statusCode: 400,
+  body: { error: message }
+});
+
 
 

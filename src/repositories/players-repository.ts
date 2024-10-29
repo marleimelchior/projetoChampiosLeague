@@ -12,3 +12,9 @@ export const findAllPlayers = async (): Promise<PlayerModel[]> => {
 export const findPlayerById = async (id: number): Promise<PlayerModel | undefined> => {
 	return database.find(player => player.id === id);
 }
+
+export const addPlayer = async (player: PlayerModel): Promise<void> => {
+	const newId = database.length > 0 ? Math.max(...database.map(p => p.id)) + 1 : 51;
+	player.id = newId;
+	database.push(player);
+  }
